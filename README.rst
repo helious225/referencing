@@ -12,10 +12,6 @@
   :alt: Supported Python versions
   :target: https://pypi.org/project/referencing/
 
-.. |CI| image:: https://github.com/python-jsonschema/referencing/workflows/CI/badge.svg
-  :alt: Build status
-  :target: https://github.com/python-jsonschema/referencing/actions?query=workflow%3ACI
-
 .. |ReadTheDocs| image:: https://readthedocs.org/projects/referencing/badge/?version=stable&style=flat
    :alt: ReadTheDocs status
    :target: https://referencing.readthedocs.io/en/stable/
