@@ -2,7 +2,7 @@
 ``referencing``
 ===============
 
-|PyPI| |Pythons| |CI| |ReadTheDocs| |pre-commit|
+|PyPI| |Pythons| |ReadTheDocs| |pre-commit|
 
 .. |PyPI| image:: https://img.shields.io/pypi/v/referencing.svg
   :alt: PyPI version
